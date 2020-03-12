@@ -1,1 +1,1 @@
-This is docker-compose.yml file of InfluxDB TICK stack push Grafana
+This is docker-compose.yml file of InfluxDB TICK and Grafana should be added.
